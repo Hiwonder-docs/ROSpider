@@ -52,7 +52,14 @@ section .rst-content .note .admonition-title{
 .wy-menu-vertical li.toctree-l2.h-current li.toctree-l3>a {
     padding: .4045em 1.618em .4045em 4.045em;
 }
-
+.wy-menu-vertical > ul > li:last-child >a{
+    display: block;
+    width: fit-content;
+    margin: 1.618em;
+    background: #f98800;
+    color: #fff;
+    border-radius: 8px;
+}
 table td{
     white-space: unset !important;
 }
