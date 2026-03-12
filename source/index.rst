@@ -14,6 +14,7 @@ ROSpider
    docs/1. ROSpider User Manual.md
    docs/2. Motion Control Course.md
    docs/3. LiDAR Course.md
+   docs/4_Camera_Basic_Lesson.md
    docs/5. Mapping and Navigation Course.md
    docs/6. ROS+OpenCV Course.md
    docs/7. ROS + Machine Learning Course.md
