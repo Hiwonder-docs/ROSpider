@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 ===========
-ROSpider
+Raspberry Pi ROSpider
 ===========
 
 .. toctree::
@@ -20,6 +20,6 @@ ROSpider
    docs/7. ROS + Machine Learning Course.md
    docs/8. Robotic Arm Vision Applications.md
    docs/9. Voice Control Course.md
-   docs/10. Movelt & Gazebo Simulation.md
+   docs/10. Movelt & Gazebo Simulation.md 
    docs/11. Large AI Model Courses.md
    Download <https://drive.google.com/drive/folders/1ZFCke0kvL2TtlD47GGU0Azyv-6MjEBIq?usp=sharing>
