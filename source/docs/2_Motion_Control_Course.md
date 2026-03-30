@@ -1820,9 +1820,10 @@ The action group setting area allows operations such as adding, deleting, updati
 </tr>
 </tbody>
 </table>
-
 > [!NOTE]
 > **ROSpider has completed deviation adjustment before shipping.**
+
+
 
 ## 2.12 Action Editing Instruction
 

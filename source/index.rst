@@ -11,15 +11,15 @@ ROSpider
    :maxdepth: 2
    :caption: ROSpider
 
-   docs/1. ROSpider User Manual.md
-   docs/2. Motion Control Course.md
-   docs/3. LiDAR Course.md
+   docs/1_ROSpider_User_Manual.md
+   docs/2_Motion_Control_Course.md
+   docs/3_LiDAR_Course.md
    docs/4_Camera_Basic_Lesson.md
-   docs/5. Mapping and Navigation Course.md
-   docs/6. ROS+OpenCV Course.md
-   docs/7. ROS + Machine Learning Course.md
-   docs/8. Robotic Arm Vision Applications.md
-   docs/9. Voice Control Course.md
-   docs/10. Movelt & Gazebo Simulation.md
-   docs/11. Large AI Model Courses.md
+   docs/5_Mapping_and_Navigation_Course.md
+   docs/6_ROS+OpenCV_Course.md
+   docs/7_ROS+Machine_Learning_Course.md
+   docs/8_Robotic_Arm_Vision_Applications.md
+   docs/9_Voice_Control_Course.md
+   docs/10_Movelt_&_Gazebo_Simulation.md
+   docs/11_Large_AI_Model_Course.md
    Download <https://drive.google.com/drive/folders/1QyAc-yD6L8jeZ0Vc2YKaD2uVBy3EqQrz>
