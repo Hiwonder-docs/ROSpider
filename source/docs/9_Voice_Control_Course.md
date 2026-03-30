@@ -33,49 +33,51 @@ Since offline speech recognition is used in this section, an offline speech reso
 
 1. Visit the iFlytek Open Platform at https://www.xfyun.cn/, and create a new account.
 
-<img src="../_static/media/chapter_9/section_3/media/image1.png" class="common_img"  />
+<img src="..\_static\media\chapter_9\section_3\media\image1.png" class="common_img"  />
 
 2. Choose **Login with phone number** and fill in the required information. For international access, the corresponding country code should be selected.
 
-<img src="../_static/media/chapter_9/section_3/media/image2.png" class="common_img"  />
+<img src="..\_static\media\chapter_9\section_3\media\image2.png" class="common_img"  />
 
 3. Once registered, click **console** to create a new application.
 
-<img src="../_static/media/chapter_9/section_3/media/image3.png" style="width:800px" class="common_img"  />
+<img src="..\_static\media\chapter_9\section_3\media\image3.png" style="width:800px" class="common_img"  />
 
 4. Fill in the required fields and click **Submit**.
 
-<img src="../_static/media/chapter_9/section_3/media/image4.png" style="width:800px" class="common_img"  />
+<img src="..\_static\media\chapter_9\section_3\media\image4.png" style="width:800px" class="common_img"  />
 
 5. Open the newly created application.
 
-<img src="../_static/media/chapter_9/section_3/media/image5.png" class="common_img"  />
+<img src="..\_static\media\chapter_9\section_3\media\image5.png" class="common_img"  />
 
 6. Click on **Offline Voice Command Recognition**, locate the corresponding APPID in the red box shown below. Then navigate to **Offline command word recognition SDK** → **Linux MSC** and click the **download** button.
 
-<img src="../_static/media/chapter_9/section_3/media/image6.png" style="width:900px" class="common_img"  />
+<img src="..\_static\media\chapter_9\section_3\media\image6.png" style="width:900px" class="common_img"  />
 
 7. Click **Return to the old version**.
 
-   <img src="../_static/media/chapter_9/section_3/media/image7.png" style="width:900px" class="common_img"  />
+   <img src="..\_static\media\chapter_9\section_3\media\image7.png" style="width:900px" class="common_img"  />
 
 8. Select **Linux**, choose the required features, click **SDK Download**, and click **Sure** to begin the download.
 
-<img src="../_static/media/chapter_9/section_3/media/image8.png" style="width:800px" class="common_img"  />
+<img src="..\_static\media\chapter_9\section_3\media\image8.png" style="width:800px" class="common_img"  />
 
-<img src="../_static/media/chapter_9/section_3/media/image9.png" style="width:400px" class="common_img"  />
+<img src="..\_static\media\chapter_9\section_3\media\image9.png" style="width:400px" class="common_img"  />
 
 9. Then, click **Go to set a personalized wake word experience package** to set the wake word and submit.
 
-<img src="../_static/media/chapter_9/section_3/media/image10.png" style="width:500px" class="common_img"  />
+<img src="..\_static\media\chapter_9\section_3\media\image10.png" style="width:500px" class="common_img"  />
 
-<img src="../_static/media/chapter_9/section_3/media/image11.png" style="width:800px" class="common_img"  />
+<img src="..\_static\media\chapter_9\section_3\media\image11.png" style="width:800px" class="common_img"  />
 
 10. In the pop-up window, click **Go to SDK Download Center** to download the file by repeating Step 8.
 
-<img src="../_static/media/chapter_9/section_3/media/image12.png" style="width:800px" class="common_img"  />
+<img src="..\_static\media\chapter_9\section_3\media\image12.png" style="width:800px" class="common_img"  />
 
 <img src="../_static/media/chapter_9/section_3/media/image13.png" style="width:800px" class="common_img"  />
+
+
 
 > [!NOTE]
 >

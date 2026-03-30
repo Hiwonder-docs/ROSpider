@@ -231,7 +231,7 @@ Specific camera parameters are shown in the table below:
 
 **1.2.3.4 LiDAR**
 
-LiDAR is a sensor that acquires precise location information through laser beams. LiDAR has numerous application scenarios; those related to the robot's functions include radar obstacle avoidance, following, SLAM mapping, and navigation. For courses related to LiDAR, please check the **[LiDAR Course](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/3.%20LiDAR%20Course.html#lidar-course)**.
+LiDAR is a sensor that acquires precise location information through laser beams. LiDAR has numerous application scenarios; those related to the robot's functions include radar obstacle avoidance, following, SLAM mapping, and navigation. For courses related to LiDAR, please check the **[LiDAR Course](https://wiki.hiwonder.com/projects/ROSpider/en/jetson-orin-nano-version/docs/3_LiDAR_Course.html)**.
 
 This robot can be equipped with the LD19 LiDAR. This radar primarily consists of a laser ranging core, a wireless power transmission unit, a wireless communication unit, an angle measurement unit, a motor drive unit, and a mechanical shell. After power-on, the rotation speed stabilizes to 10±0.1Hz within 3 seconds. It also provides a PWM external input interface to support external speed control. After the external control unit obtains the rotation speed, closed-loop control is performed via the PID algorithm, and a PWM signal is input to make the LD19 reach the specified rotation speed.
 
