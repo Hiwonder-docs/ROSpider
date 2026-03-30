@@ -9,7 +9,7 @@ Under different lighting conditions, the presented color of objects varies, whic
 > [!NOTE]
 > **Commands are strictly case-sensitive, and the Tab key can be used to auto-complete keywords.**
 
-1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/raspberry-pi-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the desktop icon <img src="../_static/media/chapter_6/section_1/image1.png" style="width:60px;"/> to open the terminal.
 3. Enter the command to stop the auto-start service.
 
@@ -205,7 +205,7 @@ Finally, the recognition results are fed back onto the video feed.
 > [!NOTE]
 > **Commands are strictly case-sensitive, and the Tab key can be used to auto-complete keywords.**
 
-1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/raspberry-pi-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the desktop icon <img src="../_static/media/chapter_6/section_1/image1.png" style="width:60px;"/> to open the terminal.
 3. Enter the command to stop the auto-start service.
 
@@ -468,7 +468,7 @@ Finally, camera calibration is performed to feed back the tag recognition result
 > [!NOTE]
 > **Commands are strictly case-sensitive, and the Tab key can be used to auto-complete keywords.**
 
-1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/raspberry-pi-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the desktop icon <img src="../_static/media/chapter_6/section_1/image1.png" style="width:60px;"/> to open the terminal.
 3. Enter the command to stop the auto-start service.
 
@@ -657,7 +657,7 @@ Finally, through operations like model projection and polygon filling, a 3D imag
 > [!NOTE]
 > **Commands are strictly case-sensitive, and the Tab key can be used to auto-complete keywords.**
 
-1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/raspberry-pi-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the desktop icon <img src="../_static/media/chapter_6/section_1/image1.png" style="width:60px;"/> to open the terminal.
 3. Enter the command to stop the auto-start service.
 
@@ -851,7 +851,7 @@ Finally, the recognition results are fed back through the video feed and the ter
 > * **The recognizable colors for this feature are red, green, and blue.**
 >
 
-1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/raspberry-pi-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the desktop icon <img src="../_static/media/chapter_6/section_1/image1.png" style="width:60px;"/> to open the terminal.
 3. Enter the command to stop the auto-start service.
 
@@ -1070,7 +1070,7 @@ Finally, the target contour is marked on the video feed. And based on the relati
 > * **Commands are strictly case-sensitive, and the Tab key can be used to auto-complete keywords.**
 >
 
-1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/raspberry-pi-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the desktop icon <img src="../_static/media/chapter_6/section_1/image1.png" style="width:60px;"/> to open the terminal.
 3. Enter the command to stop the auto-start service.
 
@@ -1338,7 +1338,7 @@ First, convert the image from RGB to grayscale using the `cvtColor` function. Ne
 > [!NOTE]
 > **Commands are strictly case-sensitive, and the Tab key can be used to auto-complete keywords.**
 
-1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/raspberry-pi-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the desktop icon <img src="../_static/media/chapter_6/section_1/image1.png" style="width:60px;"/> to open the terminal.
 3. Enter the command to stop the auto-start service.
 
@@ -1505,7 +1505,7 @@ Finally, based on the distance between the tag and the camera, ROSpider is contr
 > [!NOTE]
 > **Commands are strictly case-sensitive, and the Tab key can be used to auto-complete keywords.**
 
-1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/raspberry-pi-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the desktop icon <img src="../_static/media/chapter_6/section_1/image1.png" style="width:60px;"/> to open the terminal.
 3. Enter the command to stop the auto-start service.
 
@@ -1725,7 +1725,7 @@ Finally, the PID controller is updated to control the robot to move along the li
 > * **After starting the feature, ensure that no other objects with colors similar to the recognized color exist within the camera's field of view to avoid affecting the performance.**
 >
 
-1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/raspberry-pi-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the desktop icon <img src="../_static/media/chapter_6/section_1/image1.png" style="width:60px;"/> to open the terminal.
 3. Enter the command to stop the auto-start service.
 
@@ -2035,7 +2035,7 @@ Finally, utilize the constructed detection model to detect data points in the im
 > [!NOTE]
 > **Commands are strictly case-sensitive, and the Tab key can be used to auto-complete keywords.**
 
-1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on the robot and connect it to the remote control software, VNC. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/raspberry-pi-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the desktop icon <img src="../_static/media/chapter_6/section_1/image1.png" style="width:60px;"/> to open the terminal.
 3. Enter the command to stop the auto-start service.
 

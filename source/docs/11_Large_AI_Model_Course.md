@@ -4074,7 +4074,7 @@ Before enabling the function, a map needs to be established first by referring t
 ~/.stop_ros.sh
 ```
 
-2. If a map is not yet available, refer to [5. Mapping and Navigation Course / 1 Mapping Tutorial](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/5.%20Mapping%20and%20Navigation%20Course.html) to build a map first.
+2. If a map is not yet available, refer to [5. Mapping and Navigation Course / 5.1 Mapping Tutorial](https://wiki.hiwonder.com/projects/ROSpider/en/raspberry-pi-version/docs/5_Mapping_and_Navigation_Course.html#mapping-tutorial) to build a map first.
 3. Enter the command and press **Enter** to run the intelligent transport feature.
 
 ```bash
