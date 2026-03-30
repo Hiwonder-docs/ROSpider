@@ -692,7 +692,7 @@ It provides a series of computer vision and machine learning algorithms and tool
 > [!NOTE]
 > **Commands are strictly case-sensitive, and the Tab key can be used to auto-complete keywords.**
 
-1. Power on ROSpider and remotely connect to the system desktop via NoMachine. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on ROSpider and remotely connect to the system desktop via NoMachine. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/jetson-orin-nano-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the desktop icon <img src="../_static/media/chapter_7/section_3/media/image3.png" /> to open the command line terminal.
 3. Enter the command and press **Enter** to stop auto-start services.
 
@@ -989,7 +989,7 @@ Finally, the recognition results are fed back in the command line terminal and t
 > [!NOTE]
 > **Commands are strictly case-sensitive, and the Tab key can be used to auto-complete keywords.**
 
-1. Power on ROSpider and remotely connect to the system desktop via NoMachine. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on ROSpider and remotely connect to the system desktop via NoMachine. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/jetson-orin-nano-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the desktop icon <img src="../_static/media/chapter_7/section_3/media/image3.png" /> to open the command line terminal.
 3. Enter the command and press **Enter** to stop auto-start services.
 
@@ -1124,7 +1124,7 @@ This section utilizes the computer vision library OpenCV to acquire incoming ima
 > [!NOTE]
 > **Commands are strictly case-sensitive, and the Tab key can be used to auto-complete keywords.**
 
-1. Power on ROSpider and remotely connect to the system desktop via NoMachine. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on ROSpider and remotely connect to the system desktop via NoMachine. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/jetson-orin-nano-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the desktop icon <img src="../_static/media/chapter_7/section_3/media/image3.png" /> to open the command line terminal.
 3. Enter the command and press **Enter** to stop auto-start services.
 
@@ -1476,7 +1476,7 @@ Finally, ROSpider is controlled to track the face based on the distance between 
 > [!NOTE]
 > **Commands are strictly case-sensitive, and the Tab key can be used to auto-complete keywords.**
 
-1. Power on ROSpider and remotely connect to the system desktop via NoMachine. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on ROSpider and remotely connect to the system desktop via NoMachine. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/jetson-orin-nano-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the desktop icon <img src="../_static/media/chapter_7/section_3/media/image3.png" /> to open the command line terminal.
 3. Enter the command and press **Enter** to stop auto-start services.
 
@@ -1695,7 +1695,7 @@ Finally, when both arms are raised high, the system prepares to enter imitation 
 > [!NOTE]
 > **Commands are strictly case-sensitive, and the Tab key can be used to auto-complete keywords.**
 
-1. Power on ROSpider and remotely connect to the system desktop via NoMachine. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on ROSpider and remotely connect to the system desktop via NoMachine. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/jetson-orin-nano-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the desktop icon <img src="../_static/media/chapter_7/section_3/media/image3.png" /> to open the command line terminal.
 3. Enter the command and press **Enter** to stop auto-start services.
 

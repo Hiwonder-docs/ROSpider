@@ -136,7 +136,7 @@ Please refer to the **9.4.2 Preparation** section below to complete the necessar
 > [!NOTE]
 > **Commands are strictly case-sensitive, and the Tab key can be used to auto-complete keywords.**
 
-1. Power on ROSpider and connect it to the remote control software NoMachine. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on ROSpider and connect it to the remote control software NoMachine. For instructions on connecting to the remote desktop, refer to **[1. ROSpider User Manual \ 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/jetson-orin-nano-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the icon <img src="../_static/media/chapter_9/section_4/media/image1.png"   /> on the system desktop to open the command-line terminal.
 3. Enter the command to disable the app auto-start service:
 

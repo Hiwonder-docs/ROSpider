@@ -248,7 +248,7 @@ The LD19 LiDAR uses a ZH1.5T-4P 1.5mm connector to connect with the external sys
 
 **1.2.3.5 6-Microphone Array Module**
 
-This module is an optional hardware component. It enables voice wake-up and voice control functions on the robot. For courses related to the microphone array module, please refer to **[1. Tutorials\9. Voice Control Course](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/9.%20Voice%20Control%20Course.html)**.
+This module is an optional hardware component. It enables voice wake-up and voice control functions on the robot. For courses related to the microphone array module, please refer to **[1. Tutorials\9. Voice Control Course](https://wiki.hiwonder.com/projects/ROSpider/en/jetson-orin-nano-version/docs/9_Voice_Control_Course.html)**.
 
 This robot utilizes a six-channel microphone array adopting a planar distribution structure. It consists of six microphones that sample and process the spatial characteristics of the sound field. It can perform sound source localization and suppress background noise, interference, reverberation, and echo, achieving 360° equivalent audio reception.
 
@@ -274,7 +274,7 @@ WonderEcho Pro, also known as the AI voice interaction box, features a built-in 
 
 It integrates various voice processing technology modules and employs advanced noise suppression algorithms to effectively filter background noise from the environment, supporting a complete workflow from wake-up to voice recognition and interaction. The interaction box utilizes a modular design, allowing each functional component, such as wake-up, detection, recognition, and synthesis, to be developed and tested independently.
 
-For more information, please consult the **[1. Tutorials\9. Voice Control Course](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/9.%20Voice%20Control%20Course.html)** document content.
+For more information, please consult the **[1. Tutorials\9. Voice Control Course](https://wiki.hiwonder.com/projects/ROSpider/en/jetson-orin-nano-version/docs/9_Voice_Control_Course.html)** document content.
 
 **1.2.3.7 Bus Servo**
 
@@ -1115,7 +1115,7 @@ Once mapping is completed, the corresponding map will be saved. Subsequently, th
 
 The manual mapping algorithm used is slam_toolbox. The SLAM Toolbox package forms a 2D map of space based on LaserScan messages combined with information from the laser rangefinder and TF transformations from odom-> base link. This package permits fully serialized reloading of the SLAM map's data and pose graph for continuous mapping, localization, merging, or other operations. The SLAM Toolbox can run in synchronous and asynchronous modes. In synchronous mode, it processes all valid sensor measurements irrespective of lag, while in asynchronous mode, it processes valid sensor measurements when possible.
 
-For more principles on mapping algorithms, enabling mapping and navigation via commands, and how to save multiple maps, please review **[1. Tutorials\5. Mapping and Navigation Course\5.1 Mapping Tutorial](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/5.%20Mapping%20and%20Navigation%20Course.html#mapping-tutorial)**.
+For more principles on mapping algorithms, enabling mapping and navigation via commands, and how to save multiple maps, please review **[1. Tutorials\5. Mapping and Navigation Course\5.1 Mapping Tutorial](https://wiki.hiwonder.com/projects/ROSpider/en/jetson-orin-nano-version/docs/5_Mapping_and_Navigation_Course.html#mapping-tutorial)**.
 
 **1.5.1.1 Mapping Preparations**
 
@@ -1207,7 +1207,7 @@ When the **W** or **S** key is pressed, the robot continuously moves forward or 
 
 > [!NOTE]
 > * **Navigation will read the most recently manually or autonomously built map. If both methods were used for mapping simultaneously, the most recently successfully built and saved map will be kept.**
-> * **To learn how to save multiple maps, please study the course [5. Mapping and Navigation Course](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/5.%20Mapping%20and%20Navigation%20Course.html#mapping-and-navigation-course) later on.**
+> * **To learn how to save multiple maps, please study the course [5. Mapping and Navigation Course](https://wiki.hiwonder.com/projects/ROSpider/en/jetson-orin-nano-version/docs/5_Mapping_and_Navigation_Course.html#mapping-and-navigation-course) later on.**
 >
 
 **1.5.2.1 Operation Steps**

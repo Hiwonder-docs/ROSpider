@@ -950,7 +950,7 @@ For an introduction and principles of the RTAB-VSLAM algorithm, refer to [5.1.3 
 
 * **Operating Steps**
 
-1. Power on the robot and connect it to the remote control software NoMachine. For details on how to connect to the remote desktop, refer to section **[1. ROSpider User Manual -> 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on the robot and connect it to the remote control software NoMachine. For details on how to connect to the remote desktop, refer to section **[1. ROSpider User Manual -> 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/jetson-orin-nano-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the icon <img src="../_static/media/chapter_5/section_2/media/image45.png"  /> on the system desktop to open the command line terminal. Enter the command to disable the app auto-start service:
 
 ```bash
