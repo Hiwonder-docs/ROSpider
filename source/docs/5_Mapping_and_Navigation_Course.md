@@ -6,7 +6,7 @@ Jetson Nano has limited processing performance. If the robot system becomes seve
 
 ### **5.1.1 Installing and Importing the Virtual Machine**
 
-Refer to **[10. Movelt & Gazebo Simulation/10.1 Virtual Machine Installation and Import](https://docs.hiwonder.com/projects/ROSpider/en/jetson-nano-version/docs/10.%20Movelt%20%26%20Gazebo%20Simulation.html#virtual-machine-installation-and-import)** to install the virtual machine and import the image.
+Refer to **[10. Movelt & Gazebo Simulation/10.1 Virtual Machine Installation and Import](https://wiki.hiwonder.com/projects/ROSpider/en/jetson-nano-version/docs/10_Movelt_%26_Gazebo_Simulation.html#virtual-machine-installation-and-import)** to install the virtual machine and import the image.
 
 ### **5.2.2 Copying Files to Virtual Machine**
 
@@ -1123,7 +1123,7 @@ For an introduction and principles of the RTAB-VSLAM algorithm, refer to [5.2.3 
 
 * **Operating Steps**
 
-1. Power on the robot and connect it to the remote control software NoMachine. For details on how to connect to the remote desktop, refer to section **[1. ROSpider User Manual -> 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/latest/docs/1.%20ROSpider%20User%20Manual.html#development-environment-setup)**.
+1. Power on the robot and connect it to the remote control software NoMachine. For details on how to connect to the remote desktop, refer to section **[1. ROSpider User Manual -> 1.4 Development Environment Setup](https://wiki.hiwonder.com/projects/ROSpider/en/jetson-nano-version/docs/1_ROSpider_User_Manual.html#development-environment-setup)**.
 2. Click the icon <img src="../_static/media/chapter_5/section_2/media/image45.png"  /> on the system desktop to open the command line terminal. Enter the command to disable the app auto-start service:
 
 ```bash
