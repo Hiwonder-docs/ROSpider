@@ -27,7 +27,7 @@ Based on the scanning method, LiDAR can be functionally divided into the followi
 
 There are two common methods for LiDAR to determine the distance to a target: Triangulation and Time-of-Flight (ToF) ranging.
 
-ToF ranging can be understood by referring to the diagram below. The LiDAR first shines light onto the object, which then reflects the light directly back to the LiDAR. The LiDAR calculates the time it takes for the light to return, and multiplies this time by the speed of light, , and divides the result by two to determine the distance between the object and the LiDAR.
+ToF ranging can be understood by referring to the diagram below. The LiDAR first shines light onto the object, which then reflects the light directly back to the LiDAR. The LiDAR calculates the time it takes for the light to return, multiplies this time by the speed of light, and divides the result by two to determine the distance between the object and the LiDAR.
 
 <img class="common_img" src="../_static/media/chapter_3/section_1/media/image2.png"  style="width:600px" />
 
