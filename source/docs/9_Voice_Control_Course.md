@@ -15,7 +15,7 @@ First, connect the data cable to the interface at the bottom of the microphone. 
 
 First, connect the data cable to the port of WonderEcho Pro. Then align the four mounting holes on the voice box with the four holes in the center of the top bracket on the robot, and use a screwdriver and four M4 screws to secure the voice box to the bracket.
 
-<img src="。。/_static/media/chapter_9/section_1/media/image4.png" class="common_img" style="width:600px;"/>
+<img src="../_static/media/chapter_9/section_1/media/image4.png" class="common_img" style="width:600px;"/>
 
 <img src="../_static/media/chapter_9/section_1/media/image5.png" class="common_img" style="width:600px;"/>
 
