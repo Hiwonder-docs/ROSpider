@@ -19,6 +19,38 @@ First, connect the data cable to the port of WonderEcho Pro. Then align the four
 
 <img src="../_static/media/chapter_9/section_1/media/image5.png" class="common_img" style="width:600px;"/>
 
+Before starting features, verify that the correct microphone configuration is set in the system.
+
+1. After remotely logging in via NoMachine, click the desktop icon <img style="display:inline;vertical-align:middle;"  class="common_img" src="Z:/产品资料/Jetson Series/19. ROSpider/Markdown/Jetson_Orin_Nano_Markdown/source/_static/media/chapter_11/section_1/media/image16.png"  /> to access the configuration interface.
+
+2. Select the appropriate microphone version configuration according to the hardware.
+
+<img class="common_img" src="Z:/产品资料/Jetson Series/19. ROSpider/Markdown/Jetson_Orin_Nano_Markdown/source/_static/media/chapter_11/section_1/media/image17.png"  />
+
+3. If using the AI voice interaction box, select **WonderEcho Pro** as the microphone type, as shown in the figure below.
+
+<img class="common_img" src="Z:/产品资料/Jetson Series/19. ROSpider/Markdown/Jetson_Orin_Nano_Markdown/source/_static/media/chapter_11/section_1/media/image18.png"  style="width:300px" />
+
+<img class="common_img" src="Z:/产品资料/Jetson Series/19. ROSpider/Markdown/Jetson_Orin_Nano_Markdown/source/_static/media/chapter_11/section_1/media/image19.png"  />
+
+4. For the 6-microphone array, select **xf** as the microphone type, as shown in the figure.
+
+   <img class="common_img" src="Z:/产品资料/Jetson Series/19. ROSpider/Markdown/Jetson_Orin_Nano_Markdown/source/_static/media/chapter_11/section_1/media/image20.png"  style="width:300px" />
+
+   <img class="common_img" src="Z:/产品资料/Jetson Series/19. ROSpider/Markdown/Jetson_Orin_Nano_Markdown/source/_static/media/chapter_11/section_1/media/image21.png"  />
+
+5. Click **Save**.
+
+   <img class="common_img" src="Z:/产品资料/Jetson Series/19. ROSpider/Markdown/Jetson_Orin_Nano_Markdown/source/_static/media/chapter_11/section_1/media/image22.png"  />
+
+6. After the **Save Success** notification appears, click **Apply**.
+
+   <img class="common_img" src="Z:/产品资料/Jetson Series/19. ROSpider/Markdown/Jetson_Orin_Nano_Markdown/source/_static/media/chapter_11/section_1/media/image23.png"  />
+
+7. Finally, click **Quit** to exit the software interface.
+
+   <img class="common_img" src="../_static/media/chapter_11/section_1/media/image24.png"  />
+
 <p id ="anther9.2"></p>
 
 ## 9.2 Switching Wake Words
