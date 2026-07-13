@@ -21,31 +21,31 @@ First, connect the data cable to the port of WonderEcho Pro. Then align the four
 
 Before starting features, verify that the correct microphone configuration is set in the system.
 
-1. After remotely logging in via NoMachine, click the desktop icon <img style="display:inline;vertical-align:middle;"  class="common_img" src="Z:/产品资料/Jetson Series/19. ROSpider/Markdown/Jetson_Orin_Nano_Markdown/source/_static/media/chapter_11/section_1/media/image16.png"  /> to access the configuration interface.
+1. After remotely logging in via NoMachine, click the desktop icon <img style="display:inline;vertical-align:middle;"  class="common_img" src="../_static/media/chapter_11/section_1/media/image16.png"  /> to access the configuration interface.
 
 2. Select the appropriate microphone version configuration according to the hardware.
 
-<img class="common_img" src="Z:/产品资料/Jetson Series/19. ROSpider/Markdown/Jetson_Orin_Nano_Markdown/source/_static/media/chapter_11/section_1/media/image17.png"  />
+<img class="common_img" src="../_static/media/chapter_11/section_1/media/image17.png"  />
 
 3. If using the AI voice interaction box, select **WonderEcho Pro** as the microphone type, as shown in the figure below.
 
-<img class="common_img" src="Z:/产品资料/Jetson Series/19. ROSpider/Markdown/Jetson_Orin_Nano_Markdown/source/_static/media/chapter_11/section_1/media/image18.png"  style="width:300px" />
+<img class="common_img" src="../_static/media/chapter_11/section_1/media/image18.png"  style="width:300px" />
 
-<img class="common_img" src="Z:/产品资料/Jetson Series/19. ROSpider/Markdown/Jetson_Orin_Nano_Markdown/source/_static/media/chapter_11/section_1/media/image19.png"  />
+<img class="common_img" src="../_static/media/chapter_11/section_1/media/image19.png"  />
 
 4. For the 6-microphone array, select **xf** as the microphone type, as shown in the figure.
 
-   <img class="common_img" src="Z:/产品资料/Jetson Series/19. ROSpider/Markdown/Jetson_Orin_Nano_Markdown/source/_static/media/chapter_11/section_1/media/image20.png"  style="width:300px" />
+   <img class="common_img" src="../_static/media/chapter_11/section_1/media/image20.png"  style="width:300px" />
 
-   <img class="common_img" src="Z:/产品资料/Jetson Series/19. ROSpider/Markdown/Jetson_Orin_Nano_Markdown/source/_static/media/chapter_11/section_1/media/image21.png"  />
+   <img class="common_img" src="../_static/media/chapter_11/section_1/media/image21.png"  />
 
 5. Click **Save**.
 
-   <img class="common_img" src="Z:/产品资料/Jetson Series/19. ROSpider/Markdown/Jetson_Orin_Nano_Markdown/source/_static/media/chapter_11/section_1/media/image22.png"  />
+   <img class="common_img" src="../_static/media/chapter_11/section_1/media/image22.png"  />
 
 6. After the **Save Success** notification appears, click **Apply**.
 
-   <img class="common_img" src="Z:/产品资料/Jetson Series/19. ROSpider/Markdown/Jetson_Orin_Nano_Markdown/source/_static/media/chapter_11/section_1/media/image23.png"  />
+   <img class="common_img" src="../_static/media/chapter_11/section_1/media/image23.png"  />
 
 7. Finally, click **Quit** to exit the software interface.
 
